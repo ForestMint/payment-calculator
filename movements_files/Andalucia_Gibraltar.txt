@@ -1,0 +1,2 @@
+Alice	|EUR    |46.87	|Alice, Bob, Charline | ice cream
+Bob     |GBP    |12.40  |Alice, Bob           | coffee

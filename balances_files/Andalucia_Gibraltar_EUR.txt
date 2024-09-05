@@ -1,0 +1,3 @@
+Alice : 31.25
+Bob : -15.62
+Charline : -15.62
